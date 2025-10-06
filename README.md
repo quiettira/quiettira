@@ -1,13 +1,13 @@
-## 🌼 hi, i'm yustira ˚₊‧꒰ა♡໒꒱ ‧₊˚
-<p align="center">
-  <img src="assets/header.png" alt="Header" width="80%" />
-</p>
+# 🌼 hi, i'm yustira ˚₊‧꒰ა♡໒꒱ ‧₊˚
 
 
-<br><br>🌸 Love designing clean and chill UI  <br>🎨 Currently exploring UI/UX Design, Flutter, Next.js<br>☕ fueled by coffee and cozy playlists.  <br>🌱 still learning every day and trying to level up 💪 
+🌸 Love designing clean and chill UI  
+<br>🎨 Currently exploring UI/UX Design, Flutter, Next.js
+<br>☕ fueled by coffee and cozy playlists  
+<br>🌱 still learning every day and trying to level up 💪 
 
 
-##3 🌐 Socials:
+### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/quiettira) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/yustirafatimah) 
 
 ### 💻 Tech Stack:

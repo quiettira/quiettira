@@ -1,5 +1,8 @@
 ## Hi Guys! I'm Tira👋
-![Header Tira](assets/header.png)
+<p align="center">
+  <img src="assets/header.png" alt="Header" width="80%" />
+</p>
+
 
 
 <!--

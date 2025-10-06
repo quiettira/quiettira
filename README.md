@@ -1,4 +1,6 @@
 ## Hi Guys! I'm Tira👋
+![Header Tira](assets/header.png)
+
 
 <!--
 **quiettira/quiettira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,7 +5,7 @@
 <br>🌸 Love designing clean and chill UI  <br>🎨 Currently exploring UI/UX Design, Flutter, Next.js <br>☕ fueled by coffee and cozy playlists  <br>🌱 still learning every day and trying to level up 💪 
 
 ## 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) <br> ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) <br> ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+<img src="https://skillicons.dev/icons?i=html,css,js,php,react,nextjs,flutter,typescript,cpp,git,figma,tailwind,mysql,dart,bootstrap&theme=light" />
 
 ## 📊 GitHub Stats:
 ![quiettira](https://github-readme-stats.vercel.app/api?username=quiettira&theme=radical&hide_border=false&include_all_commits=true&count_private=true)

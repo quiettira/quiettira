@@ -12,7 +12,7 @@
 
 ---
 
-<table>
+
 <tr>
 <td width="160">
 	<img src="https://i.pinimg.com/originals/c0/ba/7f/c0ba7f41799494d307099ebcbb50e51e.gif" alt="gift" width="150" style="border-radius:8px;" />
@@ -22,7 +22,7 @@
 	Hi, I’m Yustira 🌸 A student who’s passionate about exploring the world of design and technology. I love learning how creativity and logic can come together to build something meaningful. Through this GitHub, I’m documenting my journey — from small experiments to growing projects that reflect my curiosity and dedication. Every line of code I write is part of my effort to learn, create, and inspire ✨
 </td>
 </tr>
-</table>
+
 
 <br>
 

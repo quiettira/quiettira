@@ -5,7 +5,7 @@
 <br>🌸 Love designing clean and chill UI  <br>🎨 Currently exploring UI/UX Design, Flutter, Next.js <br>☕ fueled by coffee and cozy playlists  <br>🌱 still learning every day and trying to level up 💪 
 
 ## 💻 Tech Stack:
-<img src="https://skillicons.dev/icons?i=html,css,js,php,react,nextjs,flutter,typescript,cpp,git,figma,tailwind,mysql,dart,bootstrap&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,react,nextjs,flutter,typescript,cpp,git,figma,tailwind,mysql,dart&theme=light" />
 
 ## 📊 GitHub Stats:
 ![quiettira](https://github-readme-stats.vercel.app/api?username=quiettira&theme=radical&hide_border=false&include_all_commits=true&count_private=true)

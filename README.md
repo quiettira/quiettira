@@ -38,8 +38,18 @@
 
 ---
 
-##  ☁️ my cozy stats corner
-![quiettira](https://github-readme-stats.vercel.app/api?username=quiettira&theme=radical&hide_border=false&include_all_commits=true&count_private=true&v=1) ![streak](https://nirzak-streak-stats.vercel.app/?user=quiettira&theme=radical&hide_border=false&v=1)
+## ☁️ my cozy stats corner
+
+<table>
+<tr>
+<td align="center" width="50%">
+	<img src="https://github-readme-stats.vercel.app/api?username=quiettira&theme=radical&hide_border=false&include_all_commits=true&count_private=true&v=1" width="380"/>
+</td>
+<td align="center" width="50%">
+	<img src="https://nirzak-streak-stats.vercel.app/?user=quiettira&theme=radical&hide_border=false&v=1" width="380"/>
+</td>
+</tr>
+</table>
 
 ---
 

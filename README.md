@@ -1,4 +1,5 @@
 # 🌼 hi, i'm yustira ˚₊‧꒰ა♡໒꒱ ‧₊˚
+![Header](assets/header.jpg)
 
 
 <br>🌸 Love designing clean and chill UI  <br>🎨 Currently exploring UI/UX Design, Flutter, Next.js <br>☕ fueled by coffee and cozy playlists  <br>🌱 still learning every day and trying to level up 💪 

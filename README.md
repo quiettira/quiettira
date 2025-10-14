@@ -36,7 +36,7 @@
 ---
 
 ## 💅 tools i play with 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,react,nextjs,flutter,typescript,cpp,git,figma,tailwind,mysql,dart&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,php,cpp,figma,mysql,dart&theme=light" />
 
 ---
 
